@@ -1,0 +1,20 @@
+/* -------------------------------------------- General -------------------------------------------- */
+
+"General.Reset" = "Reset";
+"General.Submit" = "Submit";
+"General.Congrats" = "Congrats!";
+"General.Error" = "Oops - We have a lil issue";
+"General.OK" = "OK";
+"General.JOIN" = "JOIN";
+"General.Cancel" = "Cancel";
+"General.Confirm" = "Confirm";
+"General.Validate" = "Validate";
+"General.Request" = "Request";
+"General.Login" = "Login";
+"General.Decline" = "Decline";
+"General.Done" = "Done";
+"General.Processing" = "Processing...";
+"General.Yes" = "YES";
+"General.No" = "NO";
+"General.Call" = "Call";
+"General.Me" = "Me";
