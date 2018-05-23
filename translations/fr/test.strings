@@ -1,9 +1,9 @@
 /* -------------------------------------------- General -------------------------------------------- */
 
 "General.Reset" = "Reset";
-"General.Submit" = "Submit";
-"General.Congrats" = "Congrats!";
-"General.Error" = "Oops - We have a lil issue";
+"General.Submit" = "Envoyer";
+"General.Congrats" = "Félicitations !";
+"General.Error" = "Oups - il y a un problème de lil";
 "General.OK" = "OK";
 "General.JOIN" = "JOIN";
 "General.Cancel" = "Cancel";
