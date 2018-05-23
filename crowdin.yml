@@ -1,0 +1,3 @@
+files:
+  - source: /test.strings
+    translation: /translations/%two_letters_code%/%original_file_name%
