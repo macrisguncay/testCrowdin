@@ -5,7 +5,7 @@
 "General.Congrats" = "Félicitations !";
 "General.Error" = "Oups - il y a un problème de lil";
 "General.OK" = "OK";
-"General.JOIN" = "JOIN";
+"General.JOIN" = "REJOIGNEZ LES";
 "General.Cancel" = "Cancel";
 "General.Confirm" = "Confirm";
 "General.Validate" = "Validate";
@@ -18,3 +18,5 @@
 "General.No" = "NO";
 "General.Call" = "Call";
 "General.Me" = "Me";
+"General.new" = "nueva cadena";
+"General.TestJC" = "Translate this.";
